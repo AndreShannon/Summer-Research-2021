@@ -1,6 +1,10 @@
-Google Colab stuff 
-Created during the Summer of 2021 at UR by Dr. Szajda's Code Sleuths AKA The Arrogant Pricks.
+Created during the Summer of 2021 at the University of Richmond by Dr. Szajda's Code Sleuths AKA The Arrogant Pricks.
 (Mostly Angela Stefanovska, André Shannon, and Nikita Morozov)
+
+We were working on implementing an explanation method for automated voice processing systems, more specifically, adapting LIME to work with DeepSpeech2.
+
+This code was made to run in Google Colab since it's too slow without a GPU.
+
 
 
 We left off working on implementing Gaussian Mixture models so we could model the decision boundary like LEMNA does. I believe it still needs work, so I would not trust the Gaussian implementation as is.
